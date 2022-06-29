@@ -1,0 +1,16 @@
+;;;;;
+multiply(x, potencia);potencia;"i ";i < n;i++;return
+multiply(2,1);1;0;true;-;-
+" multiply(2,2)";2;1;true;0+1;-
+multiply(2,4);4;2;true;-;-
+multiply(2,8);8;3;true;1+1;-
+multiply(2,16);16;4;true;-;-
+multiply(2,32);32;5;true;2+1;-
+-;64;6;false;-;-
+;;;;3+1;-
+;;;;-;-
+;;;;4+1;-
+;;;;-;-
+;;;;5+1;-
+;;;;-;64
+;;;;;

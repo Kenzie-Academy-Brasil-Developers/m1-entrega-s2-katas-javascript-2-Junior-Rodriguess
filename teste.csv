@@ -7,3 +7,5 @@ multiplicacao;i;i < d;add(c, multiplicacao);i++;
 15;3;true;20;4;
 20;4;true;25;5;
 25;5;false;-;-;25
+;;;;;
+;;;;;

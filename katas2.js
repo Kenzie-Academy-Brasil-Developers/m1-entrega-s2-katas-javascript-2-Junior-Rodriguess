@@ -1,4 +1,3 @@
-
 function add(a,b) {
     let soma = a + b
     return soma
@@ -12,8 +11,6 @@ function multiply(c, d) {
    return multiplicacao
 }
 console.log(multiply(5,5))
-
-
 function power(x,n) {
     let potencia = 1
     for (let i = 0; i < n; i++) {
@@ -22,13 +19,13 @@ function power(x,n) {
  return potencia
 }
 console.log(power(2,6))
-
-function factorialize(f){
-    let fatorial = 4
-    let resultado = fatorial
-    for (let i = 1; i < fatorial; i++) {
-        resultado *= i
+function factorialize(e) {
+    let fatorial = 1
+    for (let i = 1; i <= e; i++) {  
+    fatorial = multiply(i, fatorial)       
     }
-    return resultado
+   return fatorial
 }
-console.log(factorialize())
+console.log(factorialize(4))
+
+
